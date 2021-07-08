@@ -2,7 +2,7 @@
 layout: splash
 title: ""
 permalink: /research/
-author_profile: false
+author_profile: true
 ---
 
 # Job Market Paper
