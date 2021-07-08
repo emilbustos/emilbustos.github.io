@@ -24,7 +24,7 @@ Standard Finance theory predicts that more financially constrained firms hold la
 
 *Spillover Effects of Insurance Claims: Evidence From Sweden* (with Oliver Engist)
 
-#*The Effects of Neighbourhoods on Income, Education, and Health* (with Viking Waldén)
+*The Effects of Neighbourhoods on Income, Education, and Health* (with Viking Waldén)
 
 *Human Capital in Pre-Industrial Times: Evidence from Swedish Church Records* (with Erik Lindqvist and Björn Wallace)
 
