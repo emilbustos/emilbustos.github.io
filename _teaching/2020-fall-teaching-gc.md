@@ -2,7 +2,7 @@
 title: "Global Challenges"
 collection: teaching
 type: "Bachelor's Level Course"
-permalink: /teaching/2020-fall-teaching_gc
+permalink: /teaching/2020-fall-teaching-gc
 venue: "Stockholm School of Economics"
 date: "2020-10-01"
 location: "Stockholm, Sweden"
