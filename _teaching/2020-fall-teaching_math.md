@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor's Level Course"
 permalink: /teaching/2020-fall-teaching_math
 venue: "Stockholm School of Economics"
-date: "Fall 2020"
+date: "2020-10-01"
 location: "Stockholm, Sweden"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's Level Course"
 permalink: /teaching/2018-fall-teaching
 venue: "Stockholm School of Economics"
-date: "Fall 2018"
+date: "2018-08-01"
 location: "Stockholm, Sweden"
 ---
 
