@@ -15,14 +15,9 @@ I am a fourth-year PhD student at the Department of Economics at the Stockholm S
 
 My research interests are in labor economics, empirical corporate finance and applied microeconomics.
 
-I have a Master of Science in Economics from the Paris School of Economics. 
-
 Welcome to my web page!
 
-If you want to contact me, feel free to e-mail me at
-emil.bustos [at] phdstudent.hhs.se
-
-#- You can find my CV [here](https://vikingwalden.github.io/files/cv.pdf).
+If you want to contact me, feel free to e-mail me at: emil.bustos [at] phdstudent.hhs.se
 
 
 <!-- I am on the job market and available for interviews before, during, and after the virtual European Job Market and the virtual 2021 AEA/ASSA meetings. -->
