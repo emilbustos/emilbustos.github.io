@@ -2,21 +2,28 @@
 layout: splash
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: false
 redirect_from:
   - /about/
   - /about.html
 classes: wide
 ---
-<img src="{{site.url}}/images/VW_3.jpg" width="300" align="left" style="display: block; margin-right: 40px;" />
+<img src="{{site.url}}/images/220_MTW_Handels_P3_9718.jpg" width="300" align="left" style="display: block; margin-right: 40px;" />
 
-I am a PhD Student in Economics at the Stockholm School of Economics.  I have
-research interests in applied microeconomics, with a focus on questions related
-to labour and health.
+I am a fourth-year PhD student at the Department of Economics at the Stockholm School of Economics. 
 
-- You can find my CV [here](https://vikingwalden.github.io/files/cv.pdf).
-- Please email me at [viking.walden@phdstudent.hhs.se](mailto:viking.walden@phdstudent.hhs.se)
+My research interests are in labor economics, empirical corporate finance and applied microeconomics.
+
+I have a Master of Science in Economics from the Paris School of Economics. 
+
+Welcome to my web page!
+
+If you want to contact me, feel free to e-mail me at
+emil.bustos [at] phdstudent.hhs.se
+
+#- You can find my CV [here](https://vikingwalden.github.io/files/cv.pdf).
+
 
 <!-- I am on the job market and available for interviews before, during, and after the virtual European Job Market and the virtual 2021 AEA/ASSA meetings. -->
 
