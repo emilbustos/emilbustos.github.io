@@ -22,10 +22,10 @@ We study the impact of financing constraints on small and medium firms' risk man
 
 Standard Finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
 
- ## Non-Business Risk and Firm Growth ##
+## Non-Business Risk and Firm Growth ##
  (with Oliver Engist and Christian Thomann)
 
- ## Spillover Effects of Insurance Claims: Evidence From Sweden ## 
+## Spillover Effects of Insurance Claims: Evidence From Sweden ## 
  (with Oliver Engist)
 
 ## The Effects of Neighbourhoods on Income, Education, and Health ## 
