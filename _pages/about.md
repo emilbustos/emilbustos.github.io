@@ -11,9 +11,9 @@ classes: wide
 ---
 <img src="{{site.url}}/images/220_MTW_Handels_P3_9718.jpg" width="500" align="left" style="display: block; margin-right: 40px;" />
 
-I am a fourth-year PhD student at the Department of Economics at the Stockholm School of Economics. 
+I am a fifth-year PhD student at the Department of Economics at the Stockholm School of Economics. 
 
-My research interests are in labor economics, empirical corporate finance and applied microeconomics.
+My research interests are in labor economics, empirical corporate finance and applied microeconomics. I will be on the Job Market this fall.
 
 Welcome to my web page!
 
