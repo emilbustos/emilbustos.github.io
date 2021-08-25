@@ -14,7 +14,7 @@ I study how firms adapt to exogenous changes in labor costs. To identify this ef
 # Works in Progress
 
 ## Financial Constraints and Insurance Demand in Small and Medium-Sized Enterprises ## 
-(with Oliver Engist, Gustav Martinsson and Christian Thomann)
+(with [Oliver Engist](https://sites.google.com/view/oliverengist/home), Gustav Martinsson and Christian Thomann)
 
 We study the impact of financing constraints on small and medium firms' risk management through insurance using a panel data on 16,000 firms from a large insurance company. We measure financing constraints using credit scores commonly used by banks and other lenders. We combine this data with administrative data on firms. We find that financially constrained firms purchase more insurance. This result is robust even when using other measures of financing constraints. Smaller firms purchase more insurance at the intensive margin. A regression-discontinuity design that isolates financing constraints from other confounding variables supports that financing constraints influence firm's demand for insurance.  
 
