@@ -19,6 +19,7 @@ I study how firms adapt to exogenous changes in labor costs. To identify this ef
 We study the impact of financing constraints on small and medium firms' risk management through insurance using a panel data on 16,000 firms from a large insurance company. We measure financing constraints using credit scores commonly used by banks and other lenders. We combine this data with administrative data on firms. We find that financially constrained firms purchase more insurance. This result is robust even when using other measures of financing constraints. Smaller firms purchase more insurance at the intensive margin. A regression-discontinuity design that isolates financing constraints from other confounding variables supports that financing constraints influence firm's demand for insurance.  
 
 ## The Effect of Financial Constraints on Inventory Holdings ##
+[PDF](https://www.dropbox.com/s/523uwue94z8e2ed/bustos_inventories_main.pdf?dl=0)
 
 Standard finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
 
@@ -27,6 +28,7 @@ Standard finance theory predicts that more financially constrained firms hold la
 
 ## Spillover Effects of Insurance Claims: Evidence From Sweden ## 
  (with [Oliver Engist](https://sites.google.com/view/oliverengist/home))
+[Submitted]
 
 ## The Effects of Neighbourhoods on Income, Education, and Health ## 
 (with Viking Waldén)
