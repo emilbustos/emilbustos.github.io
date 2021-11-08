@@ -26,6 +26,8 @@ Standard finance theory predicts that more financially constrained firms hold la
 ## Non-Business Risk and Firm Growth ##
  (with [Oliver Engist](https://sites.google.com/view/oliverengist/home) and [Christian Thomann](https://www.kth.se/profile/thomann))
 
+The literature on recovery and creative destruction has analyzed the effects of large events like natural hazards or financial crises. However, large shocks induce significant general equilibrium effects that influence the recovery process of each individual firm. We complement the literature by studying how firms adjust to idiosyncratic shocks in an economy that is in equilibrium. We use a unique data set on the insurance purchases and insurance claims of 22,000 Swedish firms. Because insurance claims are unexpected and exogenous to productivity, we can identify the effect of shocks to physical assets. We find that firms who experience a loss of capital grow slower and this effect is particularly pronounced among firms with low credit scores. We conclude that firms do not fully insure and access to capital markets remains an important factor for risk management.
+
 ## Spillover Effects of Insurance Claims: Evidence From Sweden ## 
  (with [Oliver Engist](https://sites.google.com/view/oliverengist/home))
 [Submitted]
