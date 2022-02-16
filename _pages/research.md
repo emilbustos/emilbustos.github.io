@@ -11,7 +11,7 @@ author_profile: true
 
 I study how firms adapt to exogenous changes in labor costs. To identify this effect, I exploit that industries in Sweden have a centrally bargained minimum increase in average wages each year. Since these are bargained on the industry level, they are detached from the growth prospects of individual firms. Data on centralized wage increases for the years from 2001 to 2006 are combined with administrative panel data on firms. I then compare the growth rates of firms in related industries that face different centralized wage increases, while controlling for differences in growth trends. Higher centralized wage increases cause the average firm to increase sales and employment growth. These effects come from increased investments and hiring. However, there is no effect on profitability. In addition, firms increase their share of skilled labor. Moreover, the effects on employment are larger for large firms. This suggests that higher centralized wage increases also cause a reallocation of labor. 
 
-![TEST FILE](https://www.dropbox.com/s/lnq0ax65m872t09/bin_sales_cwi.pdf?dl=0)
+![TEST FILE](https://github.com/emilbustos/emilbustos.github.io/blob/c89dd5e60f4b37b83bb4bd6a6b4dc55435901d1d/bin_sales_cwi.pdf)
 
 # Working Papers
 
