@@ -9,12 +9,6 @@ author_profile: true
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
 [PDF](https://www.dropbox.com/s/69mv4hbowgnjd2i/bustos_cbw_main.pdf?dl=0)
 
-![](/assets/cbw_teaser.jpg)
-img {
-    max-width: 50%;
-    max-height: 50%;
-}
-
 I study how firms adapt to exogenous changes in labor costs. To identify this effect, I exploit that industries in Sweden have a centrally bargained minimum increase in average wages each year. Since these are bargained on the industry level, they are detached from the growth prospects of individual firms. Data on centralized wage increases for the years from 2001 to 2006 are combined with administrative panel data on firms. I then compare the growth rates of firms in related industries that face different centralized wage increases, while controlling for differences in growth trends. Higher centralized wage increases cause the average firm to increase sales and employment growth. These effects come from increased investments and hiring. However, there is no effect on profitability. In addition, firms increase their share of skilled labor. Moreover, the effects on employment are larger for large firms. This suggests that higher centralized wage increases also cause a reallocation of labor. 
 
 
