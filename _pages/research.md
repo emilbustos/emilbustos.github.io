@@ -13,11 +13,12 @@ author_profile: true
 
 I study how firms adapt to exogenous changes in labor costs. To identify this effect, I exploit that industries in Sweden have a centrally bargained minimum increase in average wages each year. Since these are bargained on the industry level, they are detached from the growth prospects of individual firms. Data on centralized wage increases for the years from 2001 to 2006 are combined with administrative panel data on firms. I then compare the growth rates of firms in related industries that face different centralized wage increases, while controlling for differences in growth trends. Higher centralized wage increases cause the average firm to increase sales and employment growth. These effects come from increased investments and hiring. However, there is no effect on profitability. In addition, firms increase their share of skilled labor. Moreover, the effects on employment are larger for large firms. This suggests that higher centralized wage increases also cause a reallocation of labor. 
 
-
 # Working Papers
 
 ## Financial Constraints and Insurance Demand in Small and Medium-Sized Enterprises ## 
 (with [Oliver Engist](https://sites.google.com/view/oliverengist/home), [Gustav Martinsson](https://www.kth.se/profile/gusma) and [Christian Thomann](https://www.kth.se/profile/thomann))
+
+<img align="left" width="450" height="450" src=/assets/teaser_determinants.jpg>
 
 We study the impact of financing constraints on the insurance demand of small and medium sized firms. We build a panel data set that combines data on insurance purchases of 34,000 firms from a large Swedish insurer with administrative data. We measure financing constraints using credit scores commonly used by banks. We find that firms facing greater constraints purchase more insurance. The results are sustained when we control for net operating losses, collateralized loans and credit lines. A regression-discontinuity design supports that financing constraints have a causal effect on firms' demand for insurance.
 
