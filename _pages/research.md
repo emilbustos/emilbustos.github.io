@@ -9,6 +9,16 @@ author_profile: true
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
 [PDF](https://www.dropbox.com/s/69mv4hbowgnjd2i/bustos_cbw_main.pdf?dl=0)
 
+.wrapper {
+  border: 1px solid red;
+  display: table-caption
+}
+
+<div class="wrapper">
+  <img src="https://github.com/emilbustos/emilbustos.github.io/blob/c41edac7d1638b7491de115bb7f5afd592f1f568/cbw_teaser.jpg">
+  <p>Hej.</p>
+</div>
+
 <p align="center">
   <img src="https://github.com/emilbustos/emilbustos.github.io/blob/c41edac7d1638b7491de115bb7f5afd592f1f568/cbw_teaser.jpg" width="600" height="500">
 </p>
