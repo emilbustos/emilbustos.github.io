@@ -38,12 +38,16 @@ Standard finance theory predicts that more financially constrained firms hold la
 ## Non-Business Risk and Firm Growth ##
  (with [Oliver Engist](https://sites.google.com/view/oliverengist/home) and [Christian Thomann](https://www.kth.se/profile/thomann))
 
+<img align="left" width="500" height="400" src=/assets/teaser_risks.jpg>
+
 The literature on recovery and creative destruction has analyzed the effects of large events like natural hazards or financial crises. However, large shocks induce significant general equilibrium effects that influence the recovery process of each individual firm. We complement the literature by studying how firms adjust to idiosyncratic shocks in an economy that is in equilibrium. We use a unique data set on the insurance purchases and insurance claims of 45,000 Swedish firms. Because insurance claims are unexpected and exogenous to productivity, we can identify the effect of shocks to physical assets. We find that firms, that experience a shock that leads to an insurance claim, quickly re-invest in their physical assets. Over a one-year time horizon this is accompanied by a temporary slowdown of the employment growth and a 50\% reduction in output growth. This effect is driven almost exclusively by firms with worse access to credit, whereas firms with the highest credit score experience no reduction in growth.
 
 <br><br><br><br><br>
 
 ## Spillover Effects of Insurance Claims: Evidence From Sweden ## 
  (with [Oliver Engist](https://sites.google.com/view/oliverengist/home))
+ 
+<img align="left" width="500" height="400" src=/assets/teaser_spillover.jpg>
 
 Many of the consequential risks individuals or firms face have very low probabilities of occurring. It is therefore difficult to accurately judge the risks one is exposed to from experience alone. This leads agents to resort to simple heuristics, such as weighting recent experiences more heavily when assessing risk. Using a unique data set on insurance purchases and insurance claims of 40,000 Swedish firms, we analyze how firms react when a similar firm in their municipality experiences a damage to their property. Our results suggest that firms do not adjust their insurance when other firms have a loss. Moreover, highly salient events do not create significant insurance demand either. This stands in contrast to previous studies, which find that agents increase their insurance after observing natural hazards. Our results are consistent with a theory where firms adequately judge their risk exposure and purchase insurance accordingly.
 
