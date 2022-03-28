@@ -15,7 +15,7 @@ I am a fifth-year PhD student at the Department of Economics at the Stockholm Sc
 
 My research interests are in labor economics, empirical corporate finance and applied microeconomics. 
 
-I study the factors enable or constrain firms to grow. In particular, I focus on the role of collective bargaining agreements, bank finance and commercial insurance.
+I study the factors enable or constrain firm growth. In particular, I focus on the role of collective bargaining agreements, bank finance and commercial insurance.
 
 Welcome to my web page!
 
