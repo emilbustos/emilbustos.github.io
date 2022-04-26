@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-<img src="{{site.url}}/assets/eb_profil_skog.jpeg" width="500" align="left" style="display: block; margin-right: 40px;" />
+<img src="{{site.url}}/assets/eb_profil_skog.jpeg" height = "500" width="100" align="left" style="display: block; margin-right: 40px;" />
 
 I am a fifth-year PhD student at the Department of Economics at the Stockholm School of Economics. 
 
