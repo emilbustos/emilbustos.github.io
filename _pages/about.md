@@ -11,7 +11,7 @@ classes: wide
 ---
 <img src="{{site.url}}/assets/eb_profil_skog.jpeg" height = "1300" width="250" align="left" style="display: block; margin-right: 40px;" />
 
-I am a fifth-year PhD student at the Department of Economics at the Stockholm School of Economics. 
+I am a tenure-track economist at the Research Institute of Industrial Economics (Institute för näringslivsforskning, IFN). I got my PhD at the Department of Economics at the Stockholm School of Economics. 
 
 My research interests are in labor economics, empirical corporate finance and applied microeconomics. 
 
@@ -19,7 +19,7 @@ I study the factors that enable or hinder firms to grow. In particular, I focus 
 
 Welcome to my web page!
 
-If you want to contact me, feel free to e-mail me at: emil.bustos [at] phdstudent.hhs.se, or contact me on [Twitter](https://twitter.com/Emil_Bustos) or [LinkedIn](https://www.linkedin.com/in/emil-bustos-3b5b17238/)
+If you want to contact me, feel free to e-mail me at: emil.bustos [at] ifn.se, or contact me on [Twitter](https://twitter.com/Emil_Bustos) or [LinkedIn](https://www.linkedin.com/in/emil-bustos-3b5b17238/)
 
 
 
