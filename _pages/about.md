@@ -13,9 +13,9 @@ classes: wide
 
 I am a tenure-track economist at the [Research Institute of Industrial Economics](https://www.ifn.se/en/researchers/ifn-researcher/emil-bustos/) (Institute för näringslivsforskning, IFN). I got my PhD at the Department of Economics at the Stockholm School of Economics in 2022. 
 
-My research interests are in labor economics, empirical corporate finance and applied microeconomics. 
+My research interests are in labor economics, empirical corporate finance, and applied microeconomics. 
 
-I study the factors that enable or hinder firms to grow. In particular, I focus on the role of collective bargaining agreements, bank finance and commercial insurance.
+I study the factors that enable or hinder firms to grow. In particular, I focus on the role of collective bargaining agreements, bank finance, and commercial insurance.
 
 Welcome to my web page!
 
