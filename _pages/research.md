@@ -7,7 +7,7 @@ author_profile: true
 
 # Job Market Paper
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
-[PDF](https://www.dropbox.com/s/3z08x94262uzjed/bustos_cbw_main.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/u22lzi8ubomianm/bustos_cbw_main.pdf?dl=0)
 
 <img align="left" width="500" height="400" src="/assets/jmp_teaser.jpg">
 
