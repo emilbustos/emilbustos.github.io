@@ -7,7 +7,7 @@ author_profile: true
 
 # Job Market Paper
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
-[PDF](https://www.dropbox.com/s/u22lzi8ubomianm/bustos_cbw_main.pdf?dl=0)
+[SSRN]([https://www.dropbox.com/s/u22lzi8ubomianm/bustos_cbw_main.pdf?dl=0](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4405873))
 
 <img align="left" width="500" height="400" src="/assets/jmp_teaser.jpg">
 
@@ -20,7 +20,7 @@ I study how firms adapt to exogenous changes in labor costs induced by collectiv
 ## Financial Constraints and Insurance Demand in Small and Medium-Sized Enterprises ## 
 (with [Oliver Engist](https://sites.google.com/view/oliverengist/home), [Gustav Martinsson](https://www.kth.se/profile/gusma) and [Christian Thomann](https://www.kth.se/profile/thomann))
 
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313737)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313737)
 
 <img align="left" width="500" height="400" src="/assets/teaser_determinants.jpg">
 
