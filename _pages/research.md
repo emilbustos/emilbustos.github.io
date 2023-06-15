@@ -26,6 +26,15 @@ I study how firms adapt to exogenous changes in labor costs induced by collectiv
 
 We study the impact of financing constraints on corporate risk management. Using data on credit scores matched with unique information on firm level commercial insurance purchases, we find that financing constraints lead to higher insurance spending. We adopt a regression discontinuity design and show that financially constrained firms spend 5--14\% more on insurance than otherwise similar unconstrained firms. Our findings add new insights to the longstanding empirical puzzle whether financially constrained firms engage more in risk management. Furthermore, our results, shed light on risk management in smaller, mostly private firms.
 
+<br><br><br><br><br>
+
+## The Effect of Financial Constraints on Inventory Holdings ##
+[PDF]([https://www.dropbox.com/s/523uwue94z8e2ed/bustos_inventories_main.pdf?dl=0](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458754))
+
+<img align="left" width="500" height="400" src="/assets/teaser_inventories.jpg">
+
+Standard finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
+
 <br><br><br><br><br><br>
 
 ## Non-Business Risk and Firm Growth ##
@@ -35,14 +44,7 @@ We study the impact of financing constraints on corporate risk management. Using
 
 The literature on recovery and creative destruction has analyzed the effects of large events like natural hazards or financial crises. However, large shocks induce significant general equilibrium effects that influence the recovery process of each individual firm. We complement the literature by studying how firms adjust to idiosyncratic shocks in an economy that is in equilibrium. We use a unique data set on the insurance purchases and insurance claims of 45,000 Swedish firms. Because insurance claims are unexpected and exogenous to productivity, we can identify the effect of shocks to physical assets. We find that firms, that experience a shock that leads to an insurance claim, quickly re-invest in their physical assets. Over a one-year time horizon this is accompanied by a temporary slowdown of the employment growth and a 50\% reduction in output growth. This effect is driven almost exclusively by firms with worse access to credit, whereas firms with the highest credit score experience no reduction in growth.
 
-<br><br><br><br><br>
 
-## The Effect of Financial Constraints on Inventory Holdings ##
-[PDF](https://www.dropbox.com/s/523uwue94z8e2ed/bustos_inventories_main.pdf?dl=0)
-
-<img align="left" width="500" height="400" src="/assets/teaser_inventories.jpg">
-
-Standard finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
 
 <br><br><br><br><br>
 
