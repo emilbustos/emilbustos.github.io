@@ -31,7 +31,7 @@ We study the impact of financing constraints on corporate risk management. Using
 ## The Effect of Financial Constraints on Inventory Holdings ##
 [PDF]([https://www.dropbox.com/s/523uwue94z8e2ed/bustos_inventories_main.pdf?dl=0](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458754))
 
-<img align="left" width="500" height="400" src="/assets/fig_rd_cutoff_1_inv_phys.pdf">
+<img align="left" width="500" height="400" src="/assets/teaser_inventories.jpg">
 
 Standard finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
 
