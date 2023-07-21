@@ -15,6 +15,8 @@ I study how firms adapt to exogenous changes in labor costs induced by collectiv
 
 <br><br><br><br><br>
 
+Media Coverage: [Akavia Aspekt](https://www.akaviaaspekt.se/karriar/lon/lonehojningar-paverkar-anstallnings--och-investeringsmonster/)
+
 # Working Papers
 
 ## Financing Constraints and Risk Management: Evidence From Micro-Level Insurance Data ## 
