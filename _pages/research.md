@@ -8,11 +8,12 @@ author_profile: true
 # Job Market Paper
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4405873)
-Media Coverage: [Akavia Aspekt](https://www.akaviaaspekt.se/karriar/lon/lonehojningar-paverkar-anstallnings--och-investeringsmonster/)
 
 <img align="left" width="500" height="400" src="/assets/jmp_teaser.jpg">
 
 I study how firms adapt to exogenous changes in labor costs induced by collective bargaining agreements. I use data on collective bargaining agreements in Sweden and study the impact of the nationwide bargaining that took place in 2004. I make a difference-in-differences analysis and compare firms in the same industry that have a different initial skill composition of their workers and thus face different bargained wage increases. Higher centralized wage increases cause the average firm to increase average wages (1.3\%) and to grow faster (2.7\%) both in terms of employment and sales, while profitability decreases. Firms increase both investments and substitute low-skilled for high-skilled labor. Moreover, the effects are more pronounced for firms with more labor market power and easier access to external finance. This suggests that the results are affected by labor market power, and the ease of input factor substitution.
+
+Media Coverage: [Akavia Aspekt](https://www.akaviaaspekt.se/karriar/lon/lonehojningar-paverkar-anstallnings--och-investeringsmonster/)
 
 <br><br><br><br><br>
 
