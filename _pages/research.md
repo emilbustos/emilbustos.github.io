@@ -49,7 +49,7 @@ Submitted.
 
 ## Collectively Bargained Wages and Female Earnings: Evidence from Swedish Local Governments ## 
 
-<p align="center" width = "33%">
+<p align="center">
   <img align="left" width="700" height="400" src="/assets/mean_did_loneink.jpg">
 </p>
 
