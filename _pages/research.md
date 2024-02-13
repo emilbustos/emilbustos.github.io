@@ -32,7 +32,7 @@ We study the impact of financing constraints on corporate risk management. Using
 
 ## Partial Retirement and Labor Supply: Evidence from Swedish Collective Bargaining Agreements ## 
 
-<img align="left" width="500" height="400" src="/assets/mean_did_pos_inc_pens.jpg">
+<img align="left" width="700" height="400" src="/assets/mean_did_pos_inc_pens.jpg">
 
 Aging populations strain pension systems, prompting policymakers to introduce partial retirement schemes to incentivize workers to retire later. I study the impact of introducing partial retirement within collective bargaining agreements in Sweden’s manufacturing sector in 2013. Merging collective bargaining data with administrative records, I employ a difference-in-differences methodology to analyze the labor market
 trajectories of eligible and ineligible cohorts around the introduction year. The results reveal a nuanced picture: while eligible workers are more likely to work and claim pension benefits simultaneously, this comes at the expense of a 10% decline in employment rates and a SEK 50,000 reduction in labor earnings. In summary, partial retirement fails to extend working lives, thus undermining its utility as a one-size-fits-all solution to the future of pension systems.
