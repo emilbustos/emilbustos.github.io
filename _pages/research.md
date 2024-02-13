@@ -19,7 +19,6 @@ Media Coverage: [Akavia Aspekt](https://www.akaviaaspekt.se/karriar/lon/lonehojn
 
 <br><br><br><br><br>
 
-
 ## Financing Constraints and Risk Management: Evidence From Micro-Level Insurance Data ## 
 (with [Oliver Engist](https://sites.google.com/view/oliverengist/home), [Gustav Martinsson](https://www.kth.se/profile/gusma) and [Christian Thomann](https://www.kth.se/profile/thomann))
 
@@ -33,6 +32,8 @@ We study the impact of financing constraints on corporate risk management. Using
 
 ## Partial Retirement and Labor Supply: Evidence from Swedish Collective Bargaining Agreements ## 
 
+<img align="left" width="500" height="400" src="/assets/mean_did_pos_inc_pens.jpg">
+
 Aging populations strain pension systems, prompting policymakers to introduce partial retirement schemes to incentivize workers to retire later. I study the impact of introducing partial retirement within collective bargaining agreements in Sweden’s manufacturing sector in 2013. Merging collective bargaining data with administrative records, I employ a difference-in-differences methodology to analyze the labor market
 trajectories of eligible and ineligible cohorts around the introduction year. The results reveal a nuanced picture: while eligible workers are more likely to work and claim pension benefits simultaneously, this comes at the expense of a 10% decline in employment rates and a SEK 50,000 reduction in labor earnings. In summary, partial retirement fails to extend working lives, thus undermining its utility as a one-size-fits-all solution to the future of pension systems.
 
@@ -42,6 +43,8 @@ Submitted.
 
 ## Collectively Bargained Wages and Female Earnings: Evidence from Swedish Local Governments ## 
 
+<img align="left" width="500" height="400" src="/assets/mean_did_loneink.jpg">
+
 This paper studies how a special wage increase for assistant nurses in Sweden affected income and employment. Workers in the public sector receive wages based on negotiations between unions and employers. These agreements usually provide the same wage increase for all covered workers. In 2016, an agreement was reached in the local public sector to provide special wage increases for assistant nurses and regular increases for other workers. I study the effects of this agreement using administrative data on Swedish workers, covering their occupation, income, and collective bargaining coverage. I do a difference-in-differences analysis comparing assistant nurses and attendants covered by the same agreement. The two groups had similar employment and income levels before the agreement was reached. Assistant nurses see higher wage increases in the years following the agreement, peaking at SEK 8,700 (USD 870). In contrast, I find no robust effects on separation or working time.
 
 Submitted.
@@ -49,6 +52,8 @@ Submitted.
 <br><br><br><br><br>
 
 ## Mandatory Notice and Unemployment: Evidence from the Swedish Public Sector ## 
+
+<img align="left" width="500" height="400" src="/assets/mean_did_pos_alos_page-0001.jpg">
 
 I study the impact of mandatory layoff notice policy on employment trajectories in the Swedish local public sector. In theory, mandatory notice provides insurance against income risk by allowing workers to search before being laid off. However, there is little empirical evidence on the size of these effects. In Sweden, notice periods can be regulated by collective bargaining agreements. I study the effects of a change in 2016 that introduced a longer notice period for those aged 57 or above. I use administrative data to compare the evolution of workers who turned 57 in 2016 with those who turned 56 before and after the change. The results
 reveal no significant improvement in employment prospects for workers with extended notice periods. This finding contrasts with the existing literature, which primarily emphasizes the positive outcomes of mandatory notice in the private sector.
