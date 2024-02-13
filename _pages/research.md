@@ -32,7 +32,7 @@ We study the impact of financing constraints on corporate risk management. Using
 
 ## Partial Retirement and Labor Supply: Evidence from Swedish Collective Bargaining Agreements ## 
 
-<img align="left" width="700" height="400" src="/assets/mean_did_pos_inc_pens.jpg">
+<img align="center" width="700" height="400" src="/assets/mean_did_pos_inc_pens.jpg">
 
 <br><br><br><br><br>
 
