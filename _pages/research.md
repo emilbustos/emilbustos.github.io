@@ -53,8 +53,7 @@ Submitted.
   <img align="left" width="800" height="400" src="/assets/mean_did_loneink.jpg">
 </p>
 
-<br />
-<br />
+<br clear="left"/>
 
 This paper studies how a special wage increase for assistant nurses in Sweden affected income and employment. Workers in the public sector receive wages based on negotiations between unions and employers. These agreements usually provide the same wage increase for all covered workers. In 2016, an agreement was reached in the local public sector to provide special wage increases for assistant nurses and regular increases for other workers. I study the effects of this agreement using administrative data on Swedish workers, covering their occupation, income, and collective bargaining coverage. I do a difference-in-differences analysis comparing assistant nurses and attendants covered by the same agreement. The two groups had similar employment and income levels before the agreement was reached. Assistant nurses see higher wage increases in the years following the agreement, peaking at SEK 8,700 (USD 870). In contrast, I find no robust effects on separation or working time.
 
