@@ -50,7 +50,7 @@ Submitted.
 ## Collectively Bargained Wages and Female Earnings: Evidence from Swedish Local Governments ## 
 
 <p align="center">
-  <img align="left" width="800" height="400" src="/assets/mean_did_loneink.jpg">
+  <img align="left" width="700" height="400" src="/assets/mean_did_loneink.jpg">
 </p>
 
 <br clear="left"/>
@@ -64,7 +64,7 @@ Submitted.
 ## Mandatory Notice and Unemployment: Evidence from the Swedish Public Sector ## 
 
 <p align="center">
- <img align="left" width="800" height="400" src="/assets/mean_did_pos_alos_page-0001.jpg">
+ <img align="left" width="700" height="400" src="/assets/mean_did_pos_alos_page-0001.jpg">
 </p>
 
 <br clear="left"/>
