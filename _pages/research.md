@@ -10,7 +10,7 @@ author_profile: true
 ## The Effect of Centrally Bargained Wages on Firm Growth ## 
 
 <p align="center">
-  <img align="left" width="800" height="400" src="/assets/jmp_teaser.jpg">
+  <img align="left" width="500" height="400" src="/assets/jmp_teaser.jpg">
 </p>
 
 I study how firms adapt to exogenous changes in labor costs induced by collective bargaining agreements. I use data on collective bargaining agreements in Sweden and study the impact of the nationwide bargaining that took place in 2004. I make a difference-in-differences analysis and compare firms in the same industry that have a different initial skill composition of their workers and thus face different bargained wage increases. Higher centralized wage increases cause the average firm to increase average wages (1.3\%) and to grow faster (2.7\%) both in terms of employment and sales, while profitability decreases. Firms increase both investments and substitute low-skilled for high-skilled labor. Moreover, the effects are more pronounced for firms with more labor market power and easier access to external finance. This suggests that the results are affected by labor market power, and the ease of input factor substitution.
@@ -27,7 +27,7 @@ Media Coverage: [Akavia Aspekt](https://www.akaviaaspekt.se/karriar/lon/lonehojn
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313737)
 
 <p align="center">
-  <img align="left" width="800" height="400" src="/assets/teaser_determinants.jpg">
+  <img align="left" width="500" height="400" src="/assets/teaser_determinants.jpg">
 </p>
 
 We study the impact of financing constraints on corporate risk management. Using data on credit scores matched with unique information on firm level commercial insurance purchases, we find that financing constraints lead to higher insurance spending. We adopt a regression discontinuity design and show that financially constrained firms spend 5--14\% more on insurance than otherwise similar unconstrained firms. Our findings add new insights to the longstanding empirical puzzle whether financially constrained firms engage more in risk management. Furthermore, our results, shed light on risk management in smaller, mostly private firms.
@@ -80,7 +80,7 @@ Submitted.
 ## The Effect of Financial Constraints on Inventory Holdings ##
 
 <p align="center">
- <img align="left" width="800" height="400" src="/assets/teaser_inventories.jpg">
+ <img align="left" width="500" height="400" src="/assets/teaser_inventories.jpg">
 </p>
 
 Standard finance theory predicts that more financially constrained firms hold larger inventories. I test this prediction using Swedish administrative data and data on credit scores. For identification, I exploit a discontinuity in the translation from continuous to discrete credit scores among Swedish firms. Firms that have a better credit score hold more inventories, both in the cross-section and around the cutoff. However, the regression discontinuity estimate is zero once we scale inventories by assets or sales. This suggests that inventories are determined by operational concerns rather than by financial concerns.
