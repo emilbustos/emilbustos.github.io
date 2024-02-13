@@ -67,6 +67,8 @@ Submitted.
  <img align="left" width="800" height="400" src="/assets/mean_did_pos_alos_page-0001.jpg">
 </p>
 
+<br clear="left"/>
+
 I study the impact of mandatory layoff notice policy on employment trajectories in the Swedish local public sector. In theory, mandatory notice provides insurance against income risk by allowing workers to search before being laid off. However, there is little empirical evidence on the size of these effects. In Sweden, notice periods can be regulated by collective bargaining agreements. I study the effects of a change in 2016 that introduced a longer notice period for those aged 57 or above. I use administrative data to compare the evolution of workers who turned 57 in 2016 with those who turned 56 before and after the change. The results
 reveal no significant improvement in employment prospects for workers with extended notice periods. This finding contrasts with the existing literature, which primarily emphasizes the positive outcomes of mandatory notice in the private sector.
 
