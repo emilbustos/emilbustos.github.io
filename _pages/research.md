@@ -92,7 +92,6 @@ Standard finance theory predicts that more financially constrained firms hold la
 <br><br><br><br><br><br>
 
 
-
 # Works in Progress
 
 ## The Value of Tenancy: Evidence on Housing, Labor Markets, and Family Formation ## 
